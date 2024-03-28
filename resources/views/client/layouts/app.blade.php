@@ -109,15 +109,15 @@
     <!-- Offcanvas area start -->
 
     <!-- Header area start -->
-    @include('layouts.header')
+    @include('client.layouts.header')
     <!-- Header area end -->
 
     <div class="ms-all-content ms-content-mobile-space pt-130">
         <main>
-        @yield('content')
+            @yield('content')
         </main>
         <!-- Footer Area Start Here  -->
-        @include('layouts.footer')
+        @include('client.layouts.footer')
         <!-- Footer Area End Here  -->
     </div>
 

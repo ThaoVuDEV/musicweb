@@ -1,0 +1,9 @@
+Genres
+Login
+Register
+Contact
+About
+Team
+Blog All
+Shop All
+Cart
