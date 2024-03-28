@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Musicly - Music Bands and Musicians HTML5 Template</title>
+    <title>Mu Síc Ly</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.svg in the root directory -->
@@ -114,54 +114,7 @@
 
     <div class="ms-all-content ms-content-mobile-space pt-130">
         <main>
-            <!-- Brand Song Area Start Here  -->
-            @include('components.home.brandsong')
-            <!-- Brand Song Area End Here  -->
-
-            <!-- Banner Area Start Here  -->
-            @include('components.home.banner')
-            <!-- Banner Area End Here  -->
-
-            <!-- Text scroll area start -->
-            @include('components.home.textscroll')
-            <!-- Text scroll area end -->
-
-            <!-- Popular  area start -->
-            @include('components.home.popular')
-            <!-- Popular  area end -->
-
-            <!-- work area start -->
-            @include('components.home.work')
-            <!-- work area end -->
-
-            <!-- Trending area start -->
-          @include('components.home.trending')
-            <!-- Trending area end -->
-
-            <!-- Function Brand Area Start Here  -->
-            @include('components.home.functionbrand')
-            <!-- Function Brand Area End Here  -->
-
-            <!-- Special Events Area Start 1 -->
-            @include('components.home.specialevents1')
-            <!-- Special Events Area End -->
-
-            <!-- Testimonial Area Start Here  -->
-          @include('components.home.testimonial')
-            <!-- Testimonial Area End Here  -->
-
-            <!-- Special Events Area Start  2-->
-           @include('components.home.specialevents2')
-            <!-- Special Events Area End -->
-
-            <!-- Partner Area Start Here  -->
-            @include('components.home.partner')
-            <!-- Partner Area End Here  -->
-
-            <!-- CTA Area Start Here  -->
-           @include('components.home.cta')
-            <!-- CTA Area End Here  -->
-
+        @yield('content')
         </main>
         <!-- Footer Area Start Here  -->
         @include('layouts.footer')

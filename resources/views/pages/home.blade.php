@@ -3,5 +3,52 @@
     Mu Síc Que
 @endsection
 @section('content')
-    
+        <!-- Brand Song Area Start Here  -->
+        @include('components.home.brandsong')
+        <!-- Brand Song Area End Here  -->
+
+        <!-- Banner Area Start Here  -->
+        @include('components.home.banner')
+        <!-- Banner Area End Here  -->
+
+        <!-- Text scroll area start -->
+        @include('components.home.textscroll')
+        <!-- Text scroll area end -->
+
+        <!-- Popular  area start -->
+        @include('components.home.popular')
+        <!-- Popular  area end -->
+
+        <!-- work area start -->
+        @include('components.home.work')
+        <!-- work area end -->
+
+        <!-- Trending area start -->
+      @include('components.home.trending')
+        <!-- Trending area end -->
+
+        <!-- Function Brand Area Start Here  -->
+        @include('components.home.functionbrand')
+        <!-- Function Brand Area End Here  -->
+
+        <!-- Special Events Area Start 1 -->
+        @include('components.home.specialevents1')
+        <!-- Special Events Area End -->
+
+        <!-- Testimonial Area Start Here  -->
+      @include('components.home.testimonial')
+        <!-- Testimonial Area End Here  -->
+
+        <!-- Special Events Area Start  2-->
+       @include('components.home.specialevents2')
+        <!-- Special Events Area End -->
+
+        <!-- Partner Area Start Here  -->
+        @include('components.home.partner')
+        <!-- Partner Area End Here  -->
+
+        <!-- CTA Area Start Here  -->
+       @include('components.home.cta')
+        <!-- CTA Area End Here  -->
+
 @endsection
