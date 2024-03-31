@@ -1,9 +1,9 @@
-Genres
-Login
-Register
-Contact
-About
-Team
-Blog All
-Shop All
-Cart
+Genres          // cắt xong
+Login           // cắt xong
+Register        // cắt xong
+Contact         // cắt xong
+About           // cắt xong
+Team            // cắt xong
+Blog All        // cắt xong
+Shop All        // cắt xong
+Cart            // cắt xong
