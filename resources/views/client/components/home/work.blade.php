@@ -1,6 +1,6 @@
 <section class="work__area work-overlay pt-125 pb-60 include__bg"
-                data-background="assets/img/bg/work-bg.jpg ">
-                <img class="work__vactor-shape d-none d-xl-block" src="assets/img/work/vactoe-shape.png"
+                data-background="client/img/bg/work-bg.jpg ">
+                <img class="work__vactor-shape d-none d-xl-block" src="client/img/work/vactoe-shape.png"
                     alt="vactoe-shape.png">
                 <div class="container">
                     <div class="row align-items-center bdFadeUp">
@@ -8,14 +8,14 @@
                             <div class="work__thumb-wrapper d-inline-block p-relative mb-60">
                                 <div class="work__thumb-inner">
                                     <div class="work__thumb">
-                                        <img src="assets/img/work/work-thumb-01.png" alt="work image">
+                                        <img src="client/img/work/work-thumb-01.png" alt="work image">
                                     </div>
                                     <div class="work__small-thumb">
                                         <div class="work__thumb">
-                                            <img src="assets/img/work/work-thumb-02.png" alt="work image">
+                                            <img src="client/img/work/work-thumb-02.png" alt="work image">
                                         </div>
                                         <div class="work__thumb">
-                                            <img src="assets/img/work/work-thumb-03.png" alt="work image">
+                                            <img src="client/img/work/work-thumb-03.png" alt="work image">
                                         </div>
                                     </div>
                                 </div>
@@ -27,7 +27,7 @@
                                         </div>
                                         <div class="card__button">
                                             <a class="card__btn" href="#">
-                                                <img src="assets/img/work/star.png" alt="work icon">
+                                                <img src="client/img/work/star.png" alt="work icon">
                                                 <span>Trustpilot</span>
                                             </a>
                                         </div>
@@ -280,7 +280,7 @@
                                             </div>
                                         </div>
                                         <div class="work__features-arrow">
-                                            <img src="assets/img/work/arrow.png" alt="image not found">
+                                            <img src="client/img/work/arrow.png" alt="image not found">
                                         </div>
                                     </div>
                                 </div>

@@ -7,7 +7,7 @@
                         <div class="header__main ms-border2 d-flex align-items-center justify-content-between">
                             <div class="header__logo pt-25 pb-25">
                                 <a href="index.html">
-                                    <img src="assets/img/logo/logo.svg" alt="logo not found">
+                                    <img src="client/img/logo/logo.svg" alt="logo not found">
                                 </a>
                             </div>
                             <div class="d-none d-xxl-block">
@@ -20,7 +20,7 @@
                                     <div class="ms-browse-act-item-wrap p-absolute">
                                         <div class="ms-song-item">
                                             <div class="ms-song-img p-relative">
-                                                <a href="genres.html"><img src="assets/img/genres/genres-01.jpg"
+                                                <a href="genres.html"><img src="client/img/genres/genres-01.jpg"
                                                         alt="brand-song"></a>
                                             </div>
                                             <div class="ms-song-content">
@@ -31,7 +31,7 @@
                                         </div>
                                         <div class="ms-song-item">
                                             <div class="ms-song-img p-relative">
-                                                <a href="genres.html"><img src="assets/img/genres/genres-02.jpg"
+                                                <a href="genres.html"><img src="client/img/genres/genres-02.jpg"
                                                         alt="brand-song"></a>
                                             </div>
                                             <div class="ms-song-content">
@@ -42,7 +42,7 @@
                                         </div>
                                         <div class="ms-song-item">
                                             <div class="ms-song-img p-relative">
-                                                <a href="genres.html"><img src="assets/img/genres/genres-03.jpg"
+                                                <a href="genres.html"><img src="client/img/genres/genres-03.jpg"
                                                         alt="brand-song"></a>
                                             </div>
                                             <div class="ms-song-content">
@@ -54,7 +54,7 @@
                                         </div>
                                         <div class="ms-song-item">
                                             <div class="ms-song-img p-relative">
-                                                <a href="genres.html"><img src="assets/img/genres/genres-04.jpg"
+                                                <a href="genres.html"><img src="client/img/genres/genres-04.jpg"
                                                         alt="brand-song"></a>
                                             </div>
                                             <div class="ms-song-content">
@@ -66,7 +66,7 @@
                                         </div>
                                         <div class="ms-song-item">
                                             <div class="ms-song-img p-relative">
-                                                <a href="genres.html"><img src="assets/img/genres/genres-05.jpg"
+                                                <a href="genres.html"><img src="client/img/genres/genres-05.jpg"
                                                         alt="brand-song"></a>
                                             </div>
                                             <div class="ms-song-content">
@@ -225,7 +225,7 @@
                                             <div class="ms-song-item">
                                                 <div class="ms-song-img p-relative">
                                                     <a href="genres.html"><img
-                                                            src="assets/img/genres/genres-03.jpg"
+                                                            src="client/img/genres/genres-03.jpg"
                                                             alt="brand-song"></a>
                                                 </div>
                                                 <div class="ms-song-content">
@@ -239,7 +239,7 @@
                                             <div class="ms-song-item">
                                                 <div class="ms-song-img p-relative">
                                                     <a href="genres.html"><img
-                                                            src="assets/img/genres/genres-04.jpg"
+                                                            src="client/img/genres/genres-04.jpg"
                                                             alt="brand-song"></a>
                                                 </div>
                                                 <div class="ms-song-content">
@@ -252,7 +252,7 @@
                                             <div class="ms-song-item">
                                                 <div class="ms-song-img p-relative">
                                                     <a href="genres.html"><img
-                                                            src="assets/img/genres/genres-05.jpg"
+                                                            src="client/img/genres/genres-05.jpg"
                                                             alt="brand-song"></a>
                                                 </div>
                                                 <div class="ms-song-content">

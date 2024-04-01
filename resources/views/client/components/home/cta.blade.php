@@ -1,7 +1,7 @@
 <section class="ms-cta-area ms-cta--120 p-relative zindex-10">
     <div class="container">
         <div class="ms-cta-bg include__bg ms-cta-overlay zindex-1 fix"
-            data-background="assets/img/cta/cta-bg.png">
+            data-background="client/img/cta/cta-bg.png">
             <div class="ms-cta-wrap">
                 <div class="ms-cta-item">
                     <div class="ms-cta-content">
@@ -19,14 +19,14 @@
                 </div>
                 <div class="ms-cta-item">
                     <div class="ms-cta-img">
-                        <img src="assets/img/cta/cta-01.png" alt="cta image">
+                        <img src="client/img/cta/cta-01.png" alt="cta image">
                     </div>
                 </div>
                 <div class="ms-cta-item">
                     <div class="ms-cta-app">
-                        <a target="_blank" href="#"><img src="assets/img/cta/app-store.png"
+                        <a target="_blank" href="#"><img src="client/img/cta/app-store.png"
                                 alt="app store"></a>
-                        <a target="_blank" href="#"><img src="assets/img/cta/play-store.png"
+                        <a target="_blank" href="#"><img src="client/img/cta/play-store.png"
                                 alt="play store"></a>
                     </div>
                 </div>

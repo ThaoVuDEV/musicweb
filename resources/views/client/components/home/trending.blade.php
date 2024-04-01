@@ -22,13 +22,13 @@
         <div class="row bdFadeUp">
             <div class="trending-grid">
                 <div class="trending-item">
-                    <div class="trending__thumb" data-background="assets/img/trending/01.jpg"></div>
+                    <div class="trending__thumb" data-background="client/img/trending/01.jpg"></div>
                     <div class="trending__info">
                         <div class="trending__number">
                             <span>01</span>
                         </div>
                         <div class="trending__arrow">
-                            <a href="assets/img/trending/01.jpg" class="popup-image"><i
+                            <a href="client/img/trending/01.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                         <div class="trending__price">
@@ -46,13 +46,13 @@
                     </div>
                 </div>
                 <div class="trending-item">
-                    <div class="trending__thumb" data-background="assets/img/trending/02.jpg"></div>
+                    <div class="trending__thumb" data-background="client/img/trending/02.jpg"></div>
                     <div class="trending__info">
                         <div class="trending__number">
                             <span>02</span>
                         </div>
                         <div class="trending__arrow">
-                            <a href="assets/img/trending/02.jpg" class="popup-image"><i
+                            <a href="client/img/trending/02.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                         <div class="trending__price">
@@ -70,13 +70,13 @@
                     </div>
                 </div>
                 <div class="trending-item">
-                    <div class="trending__thumb" data-background="assets/img/trending/03.jpg"></div>
+                    <div class="trending__thumb" data-background="client/img/trending/03.jpg"></div>
                     <div class="trending__info">
                         <div class="trending__number">
                             <span>03</span>
                         </div>
                         <div class="trending__arrow">
-                            <a href="assets/img/trending/03.jpg" class="popup-image"><i
+                            <a href="client/img/trending/03.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                         <div class="trending__price">
@@ -94,13 +94,13 @@
                     </div>
                 </div>
                 <div class="trending-item">
-                    <div class="trending__thumb" data-background="assets/img/trending/04.jpg"></div>
+                    <div class="trending__thumb" data-background="client/img/trending/04.jpg"></div>
                     <div class="trending__info">
                         <div class="trending__number">
                             <span>04</span>
                         </div>
                         <div class="trending__arrow">
-                            <a href="assets/img/trending/04.jpg" class="popup-image"><i
+                            <a href="client/img/trending/04.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                         <div class="trending__price">
@@ -118,13 +118,13 @@
                     </div>
                 </div>
                 <div class="trending-item">
-                    <div class="trending__thumb" data-background="assets/img/trending/05.jpg"></div>
+                    <div class="trending__thumb" data-background="client/img/trending/05.jpg"></div>
                     <div class="trending__info">
                         <div class="trending__number">
                             <span>05</span>
                         </div>
                         <div class="trending__arrow">
-                            <a href="assets/img/trending/04.jpg" class="popup-image"><i
+                            <a href="client/img/trending/04.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                         <div class="trending__price">
@@ -142,13 +142,13 @@
                     </div>
                 </div>
                 <div class="trending-item">
-                    <div class="trending__thumb" data-background="assets/img/trending/06.jpg"></div>
+                    <div class="trending__thumb" data-background="client/img/trending/06.jpg"></div>
                     <div class="trending__info">
                         <div class="trending__number">
                             <span>06</span>
                         </div>
                         <div class="trending__arrow">
-                            <a href="assets/img/trending/06.jpg" class="popup-image"><i
+                            <a href="client/img/trending/06.jpg" class="popup-image"><i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                         <div class="trending__price">

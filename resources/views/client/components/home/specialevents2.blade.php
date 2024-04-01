@@ -21,7 +21,7 @@
                     <div class="ms-news-overlay p-absolute"></div>
                     <a class="ms-news4-cat" href="news-details.html">Event</a>
                     <div class="ms-news-thumb w-img">
-                        <a href="news-details.html"><img src="assets/img/news/news-01.png"
+                        <a href="news-details.html"><img src="client/img/news/news-01.png"
                                 alt="news image"></a>
                     </div>
                     <div class="ms-news-content ms-news-position p-absolute">
@@ -47,7 +47,7 @@
                     <div class="ms-news-overlay p-absolute"></div>
                     <a class="ms-news4-cat" href="news-details.html">Wedding Party</a>
                     <div class="ms-news-thumb w-img">
-                        <a href="news-details.html"><img src="assets/img/news/news-02.png"
+                        <a href="news-details.html"><img src="client/img/news/news-02.png"
                                 alt="news image"></a>
                     </div>
                     <div class="ms-news-content ms-news-position p-absolute">
@@ -71,7 +71,7 @@
                     <div class="ms-news-overlay p-absolute"></div>
                     <a class="ms-news4-cat" href="news-details.html">DJ Party Event</a>
                     <div class="ms-news-thumb w-img">
-                        <a href="news-details.html"><img src="assets/img/news/news-03.png"
+                        <a href="news-details.html"><img src="client/img/news/news-03.png"
                                 alt="news image"></a>
                     </div>
                     <div class="ms-news-content ms-news-position p-absolute">

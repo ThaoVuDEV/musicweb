@@ -1,6 +1,6 @@
 <footer>
     <div class="ms-footer-bg ms-footer-overlay zindex-1 include__bg pt-120"
-        data-background="assets/img/bg/sound-bg.png">
+        data-background="client/img/bg/sound-bg.png">
         <div class="ms-footer-top pt-130">
             <div class="container">
                 <div class="ms-footer-border pb-10">
@@ -91,7 +91,7 @@
                 <div
                     class="ms-footer-bottom-wrap align-items-center d-flex flex-wrap justify-content-between pt-35 pb-20">
                     <div class="ms-footer-logo mb-15">
-                        <a href="index.html"><img src="assets/img/logo/footer-logo.png"
+                        <a href="index.html"><img src="client/img/logo/footer-logo.png"
                                 alt="logo"></a>
                     </div>
                     <div class="ms-footer-copy">

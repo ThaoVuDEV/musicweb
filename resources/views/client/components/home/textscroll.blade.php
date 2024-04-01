@@ -1,5 +1,5 @@
 <section class="text__scroll-area include__bg ms-ts-space p-relative fix"
-data-background="assets/img/bg/text-scroll-bg.png">
+data-background="client/img/bg/text-scroll-bg.png">
 <div class="text__scroll-wrapper">
     <div class="ms-text-line-1">
         <div class="swiper-container ms-st-active scroll__text pt-20 pb-20">

@@ -8,20 +8,20 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.svg in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="./assets/img/favicon.svg">
+    <link rel="shortcut icon" type="image/x-icon" href="./client/img/favicon.svg">
     <!-- CSS here -->
-    <link rel="stylesheet" href="{{ asset('assets/app/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/meanmenu.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/nice-select.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/swiper-bundle.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/slick.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/jquery-ui.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/backtotop.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/magnific-popup.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/flaticon_musicly.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/fontawesome-pro.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/spacing.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/app/css/main.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/meanmenu.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/nice-select.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/swiper-bundle.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/slick.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/jquery-ui.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/backtotop.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/magnific-popup.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/flaticon_musicly.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/fontawesome-pro.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/spacing.css') }}">
+    <link rel="stylesheet" href="{{ asset('client/app/css/main.css') }}">
 </head>
 
 <body>
@@ -60,7 +60,7 @@
                     <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
                             <a href="index.html">
-                                <img src="assets/img/logo/logo.svg" alt="logo">
+                                <img src="client/img/logo/logo.svg" alt="logo">
                             </a>
                         </div>
                         <div class="offcanvas__close">
@@ -131,25 +131,25 @@
     <!-- Back to top end -->
 
     <!-- JS here -->
-    <script src="{{ asset('assets/app/js/jquery-3.6.0.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/waypoints.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/nice-select.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/meanmenu.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/swiper-bundle.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/slick.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/magnific-popup.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/backtotop.js') }}"></script>
-    <script src="{{ asset('assets/app/js/ajax-form.js') }}"></script>
-    <script src="{{ asset('assets/app/js/jquery-ui.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/gsap.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/ScrollToPlugin.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/SplitText.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/ScrollTrigger.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/jquery.jplayer.min.js') }}"></script>
-    <script src="{{ asset('assets/app/js/jplayer.playlist.js') }}"></script>
-    <script src="{{ asset('assets/app/js/settings.js') }}"></script>
-    <script src="{{ asset('assets/app/js/main.js') }}"></script>
+    <script src="{{ asset('client/app/js/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/waypoints.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/nice-select.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/meanmenu.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/slick.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/backtotop.js') }}"></script>
+    <script src="{{ asset('client/app/js/ajax-form.js') }}"></script>
+    <script src="{{ asset('client/app/js/jquery-ui.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/gsap.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/ScrollToPlugin.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/SplitText.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/ScrollTrigger.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/jquery.jplayer.min.js') }}"></script>
+    <script src="{{ asset('client/app/js/jplayer.playlist.js') }}"></script>
+    <script src="{{ asset('client/app/js/settings.js') }}"></script>
+    <script src="{{ asset('client/app/js/main.js') }}"></script>
 
 </body>
 

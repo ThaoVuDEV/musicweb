@@ -5,7 +5,7 @@
 @section('content')
     <!-- About Area Start Here  -->
     <section class="ms-about-area fix">
-        <div class="ms-about-bg include__bg p-relative zindex-1 pt-120 pb-130" data-background="assets/img/about/about3.jpg">
+        <div class="ms-about-bg include__bg p-relative zindex-1 pt-120 pb-130" data-background="client/img/about/about3.jpg">
             <div class="ms-overlay ms-overlay5 p-absolute zindex--1"></div>
             <div class="container">
                 <div class="row justify-content-center">
@@ -27,10 +27,10 @@
                                 <a href="https://www.youtube.com/watch?v=Rf9flQISwok"
                                     class="popup-video ms-video-round p-relative">
                                     <div class="ms-video-img1">
-                                        <img src="assets/img/about/about1.png" alt="about image">
+                                        <img src="client/img/about/about1.png" alt="about image">
                                     </div>
                                     <div class="ms-video-img2 d-inline-block">
-                                        <img src="assets/img/about/about2.png" alt="about image">
+                                        <img src="client/img/about/about2.png" alt="about image">
                                     </div>
                                     <div class="ms-video-icon">
                                         <i class="fa-sharp fa-regular fa-play"></i>
@@ -69,7 +69,7 @@
                                     <p>1050 Review On</p>
                                 </div>
                                 <div class="ms-review-right">
-                                    <img src="assets/img/footer/start-01.png" alt="review img">
+                                    <img src="client/img/footer/start-01.png" alt="review img">
                                 </div>
                             </div>
                         </div>
@@ -122,7 +122,7 @@
                 <div class="row bdFadeUp">
                     <div class="col-xl-12">
                         <div class="ms-choose-bg m-img ms-br-15 fix">
-                            <img src="assets/img/choose/choose-bg.png" alt="choose img">
+                            <img src="client/img/choose/choose-bg.png" alt="choose img">
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                         <div class="ms-work3-inner">
                             <div class="ms-work3-thumb m-img p-relative fix ms-br-20">
                                 <div class="ms-overlay ms-overlay3 p-absolute"></div>
-                                <img src="assets/img/work/work-thumb-06.png" alt="work image">
+                                <img src="client/img/work/work-thumb-06.png" alt="work image">
                             </div>
                             <div class="work__features-bottom ms-work3-features pb-0">
                                 <div class="work__features-action">
@@ -152,7 +152,7 @@
                                     </div>
                                 </div>
                                 <div class="work__features-arrow">
-                                    <img src="assets/img/work/arrow.png" alt="image not found">
+                                    <img src="client/img/work/arrow.png" alt="image not found">
                                 </div>
                             </div>
                         </div>
@@ -403,7 +403,7 @@
                     <div class="ms-team-item-wrap">
                         <div class="ms-team-item p-relative">
                             <div class="ms-team-img">
-                                <a href="team-details.html"><img src="assets/img/team/team-01.jpg" alt="team image"></a>
+                                <a href="team-details.html"><img src="client/img/team/team-01.jpg" alt="team image"></a>
                                 <div class="ms-team-social">
                                     <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
                                     <a href="https://twitter.com/" title="Twitter" target="_blank">TW</a>
@@ -419,7 +419,7 @@
                     <div class="ms-team-item-wrap">
                         <div class="ms-team-item p-relative">
                             <div class="ms-team-img">
-                                <a href="team-details.html"><img src="assets/img/team/team-02.jpg" alt="team image"></a>
+                                <a href="team-details.html"><img src="client/img/team/team-02.jpg" alt="team image"></a>
                                 <div class="ms-team-social">
                                     <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
                                     <a href="https://twitter.com/" title="Twitter" target="_blank">TW</a>
@@ -435,7 +435,7 @@
                     <div class="ms-team-item-wrap">
                         <div class="ms-team-item p-relative">
                             <div class="ms-team-img">
-                                <a href="team-details.html"><img src="assets/img/team/team-03.jpg" alt="team image"></a>
+                                <a href="team-details.html"><img src="client/img/team/team-03.jpg" alt="team image"></a>
                                 <div class="ms-team-social">
                                     <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
                                     <a href="https://twitter.com/" title="Twitter" target="_blank">TW</a>
@@ -452,7 +452,7 @@
                     <div class="ms-team-item-wrap">
                         <div class="ms-team-item p-relative">
                             <div class="ms-team-img">
-                                <a href="team-details.html"><img src="assets/img/team/team-04.jpg" alt="team image"></a>
+                                <a href="team-details.html"><img src="client/img/team/team-04.jpg" alt="team image"></a>
                                 <div class="ms-team-social">
                                     <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
                                     <a href="https://twitter.com/" title="Twitter" target="_blank">TW</a>
@@ -469,7 +469,7 @@
                     <div class="ms-team-item-wrap">
                         <div class="ms-team-item p-relative">
                             <div class="ms-team-img">
-                                <a href="team-details.html"><img src="assets/img/team/team-05.jpg" alt="team image"></a>
+                                <a href="team-details.html"><img src="client/img/team/team-05.jpg" alt="team image"></a>
                                 <div class="ms-team-social">
                                     <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
                                     <a href="https://twitter.com/" title="Twitter" target="_blank">TW</a>
@@ -486,7 +486,7 @@
                     <div class="ms-team-item-wrap">
                         <div class="ms-team-item p-relative">
                             <div class="ms-team-img">
-                                <a href="team-details.html"><img src="assets/img/team/team-06.jpg" alt="team image"></a>
+                                <a href="team-details.html"><img src="client/img/team/team-06.jpg" alt="team image"></a>
                                 <div class="ms-team-social">
                                     <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
                                     <a href="https://twitter.com/" title="Twitter" target="_blank">TW</a>

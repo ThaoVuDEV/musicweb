@@ -5,7 +5,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/01.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/01.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">01</span>
                         </div>
@@ -19,7 +19,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/02.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/02.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">02</span>
                         </div>
@@ -33,7 +33,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/03.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/03.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">03</span>
                         </div>
@@ -46,7 +46,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/04.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/04.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">04</span>
                         </div>
@@ -60,7 +60,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/05.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/05.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">05</span>
                         </div>
@@ -74,7 +74,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/06.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/06.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">06</span>
                         </div>
@@ -88,7 +88,7 @@
                 <div class="swiper-slide">
                     <div class="ms-song-item">
                         <div class="ms-song-img p-relative">
-                            <a href="genres-details.html"><img src="assets/img/brand-song/07.png"
+                            <a href="genres-details.html"><img src="client/img/brand-song/07.png"
                                     alt="brand-song"></a>
                             <span class="ms-song-num">07</span>
                         </div>

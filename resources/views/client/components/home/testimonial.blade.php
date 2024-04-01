@@ -7,25 +7,25 @@
                         <div class="ms-tm-img-main p-relative m-img">
                             <div class="ms-tm-bg-shape"></div>
                             <div class="ms-tm-signature">
-                                <img src="assets/img/testimonial/testimonial-signature.png"
+                                <img src="client/img/testimonial/testimonial-signature.png"
                                     alt="testimonial signature">
                             </div>
-                            <img src="assets/img/testimonial/testimonial-05.png" alt="testimonial image">
+                            <img src="client/img/testimonial/testimonial-05.png" alt="testimonial image">
                         </div>
                         <div class="ms-tm-img1 p-absolute w-img">
-                            <img src="assets/img/testimonial/testimonial-01.jpg" alt="testimonial image">
+                            <img src="client/img/testimonial/testimonial-01.jpg" alt="testimonial image">
                         </div>
                         <div class="ms-tm-img2 p-absolute w-img">
-                            <img src="assets/img/testimonial/testimonial-02.jpg" alt="testimonial image">
+                            <img src="client/img/testimonial/testimonial-02.jpg" alt="testimonial image">
                         </div>
                         <div class="ms-tm-img3 p-absolute w-img d-none d-sm-block">
-                            <img src="assets/img/testimonial/testimonial-03.jpg" alt="testimonial image">
+                            <img src="client/img/testimonial/testimonial-03.jpg" alt="testimonial image">
                         </div>
                         <div class="ms-tm-img4 p-absolute w-img">
-                            <img src="assets/img/testimonial/testimonial-04.jpg" alt="testimonial image">
+                            <img src="client/img/testimonial/testimonial-04.jpg" alt="testimonial image">
                         </div>
                         <div class="ms-tm-img5 p-absolute w-img">
-                            <img src="assets/img/testimonial/testimonial-02.jpg" alt="testimonial image">
+                            <img src="client/img/testimonial/testimonial-02.jpg" alt="testimonial image">
                         </div>
                     </div>
                 </div>

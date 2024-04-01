@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    //return view('client.pages.home');
-    return view('client.components.shop.shop');
+    return view('client.pages.home');
+    // return view('client.components.shop.shop');
 });

@@ -35,10 +35,10 @@
                 </div>
             </div>
         </div>
-        <div class="ms-genres-shape include__bg" data-background="assets/img/genres/genres-shape.png">
+        <div class="ms-genres-shape include__bg" data-background="client/img/genres/genres-shape.png">
             <div class="container">
                 <div class="ms-genres-img p-relative ms-br-15 m-img fix mb-65">
-                    <img src="assets/img/genres/genres-bg-2.jpg" alt="genres image">
+                    <img src="client/img/genres/genres-bg-2.jpg" alt="genres image">
                     <span class="ms-genres-price">From $99</span>
                 </div>
             </div>
@@ -137,7 +137,7 @@
                                             Pharrell
                                             Williams</h4>
                                         <div class="ms-genres-img fix m-img ms-br-15 mb-60 d-inline-block">
-                                            <img src="assets/img/genres/genres-bg-3.jpg" alt="genres image">
+                                            <img src="client/img/genres/genres-bg-3.jpg" alt="genres image">
                                         </div>
                                         <div class="ms-border2 mb-30">
                                             <h4 class="ms-title3 white-text text-center mb-30">Demo
@@ -152,7 +152,7 @@
                                                     <div class="jp-type-playlist">
                                                         <div class="ms-header2-singer d-none">
                                                             <div class="ms-header2-singer-img">
-                                                                <a href="#"><img src="assets/img/header/singer.png"
+                                                                <a href="#"><img src="client/img/header/singer.png"
                                                                         alt="singer"></a>
                                                             </div>
                                                             <div class="ms-header2-singer-text">
@@ -242,7 +242,7 @@
                                         <div class="ms-genres-review-content">
                                             <div class="ms-genres-review-list ms-border2 pt-30 ms-genres-review-grid">
                                                 <div class="ms-genres-review-img">
-                                                    <img src="assets/img/news/news-02.png" alt="Review image">
+                                                    <img src="client/img/news/news-02.png" alt="Review image">
                                                 </div>
                                                 <div class="ms-genres-review-content">
                                                     <h5 class="ms-genres-review-title">Ann, Wedding,
@@ -268,7 +268,7 @@
                                             </div>
                                             <div class="ms-genres-review-list ms-border2 pt-30 ms-genres-review-grid">
                                                 <div class="ms-genres-review-img">
-                                                    <img src="assets/img/work/work-thumb-02.png" alt="Review image">
+                                                    <img src="client/img/work/work-thumb-02.png" alt="Review image">
                                                 </div>
                                                 <div class="ms-genres-review-content">
                                                     <h5 class="ms-genres-review-title">Kathryn, Wedding,
@@ -297,7 +297,7 @@
                                             </div>
                                             <div class="ms-genres-review-list pt-30 ms-genres-review-grid">
                                                 <div class="ms-genres-review-img">
-                                                    <img src="assets/img/trending/01.jpg" alt="Review image">
+                                                    <img src="client/img/trending/01.jpg" alt="Review image">
                                                 </div>
                                                 <div class="ms-genres-review-content">
                                                     <h5 class="ms-genres-review-title">Sue & Tom,
@@ -352,7 +352,7 @@
                         </div>
                         <div class="ms-genres-info-wrap d-inline-block p-relative mb-50 ms-br-15 fix">
                             <div class="ms-genres-info-img p-absolute w-img">
-                                <img src="assets/img/event/event-bg-2.png" alt="event img">
+                                <img src="client/img/event/event-bg-2.png" alt="event img">
                             </div>
                             <div class="ms-genres-info">
                                 <div class="ms-overlay ms-overlay7 zindex--1 p-absolute"></div>
@@ -397,7 +397,7 @@
 
     <!-- Booking Area Start Here  -->
     <section class="ms-booking-area include__bg p-relative zindex-1 pt-120 pb-130"
-        data-background="assets/img/bg/work-bg.jpg">
+        data-background="client/img/bg/work-bg.jpg">
         <div class="ms-overlay ms-overlay1 p-absolute zindex--1"></div>
         <div class="container">
             <div class="row align-items-end mb-25">
@@ -413,7 +413,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="trending-btn mb-40 d-flex justify-content-lg-end">
-                        <a class="unfill__btn" href="assets/file/pdf/musicly-pdf-fle.pdf" download>Download
+                        <a class="unfill__btn" href="client/file/pdf/musicly-pdf-fle.pdf" download>Download
                             PDF <i class="flaticon-downloads"></i></a>
                     </div>
                 </div>
@@ -682,7 +682,7 @@
                                 <div class="ms-genres-item ms-genres-flex mb-25">
                                     <div class="ms-genres-img ms-br-15 fix w-img genres-img-214">
                                         <a href="genres-details.html">
-                                            <img src="assets/img/genres/genres-01.jpg" alt="genres img">
+                                            <img src="client/img/genres/genres-01.jpg" alt="genres img">
                                         </a>
                                         <a class="popup-video ms-genres-video"
                                             href="https://www.youtube.com/watch?v=Rf9flQISwok"><i
@@ -721,7 +721,7 @@
                                 <div class="ms-genres-item ms-genres-flex mb-25">
                                     <div class="ms-genres-img ms-br-15 fix w-img genres-img-214">
                                         <a href="genres-details.html">
-                                            <img src="assets/img/genres/genres-02.jpg" alt="genres img">
+                                            <img src="client/img/genres/genres-02.jpg" alt="genres img">
                                         </a>
                                         <a class="popup-video ms-genres-video"
                                             href="https://www.youtube.com/watch?v=Rf9flQISwok"><i
@@ -761,7 +761,7 @@
                                 <div class="ms-genres-item ms-genres-flex mb-25">
                                     <div class="ms-genres-img ms-br-15 fix w-img genres-img-214">
                                         <a href="genres-details.html">
-                                            <img src="assets/img/genres/genres-03.jpg" alt="genres img">
+                                            <img src="client/img/genres/genres-03.jpg" alt="genres img">
                                         </a>
                                         <a class="popup-video ms-genres-video"
                                             href="https://www.youtube.com/watch?v=Rf9flQISwok"><i
@@ -801,7 +801,7 @@
                                 <div class="ms-genres-item ms-genres-flex mb-25">
                                     <div class="ms-genres-img ms-br-15 fix w-img genres-img-214">
                                         <a href="genres-details.html">
-                                            <img src="assets/img/genres/genres-04.jpg" alt="genres img">
+                                            <img src="client/img/genres/genres-04.jpg" alt="genres img">
                                         </a>
                                         <a class="popup-video ms-genres-video"
                                             href="https://www.youtube.com/watch?v=Rf9flQISwok"><i
@@ -840,7 +840,7 @@
                                 <div class="ms-genres-item ms-genres-flex mb-25">
                                     <div class="ms-genres-img ms-br-15 fix w-img genres-img-214">
                                         <a href="genres-details.html">
-                                            <img src="assets/img/genres/genres-05.jpg" alt="genres img">
+                                            <img src="client/img/genres/genres-05.jpg" alt="genres img">
                                         </a>
                                         <a class="popup-video ms-genres-video"
                                             href="https://www.youtube.com/watch?v=Rf9flQISwok"><i
@@ -888,40 +888,40 @@
             <div class="swiper-container ms-partner-active">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-01.png" alt="partner image">
+                        <img src="client/img/partner/partner-01.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-02.png" alt="partner image">
+                        <img src="client/img/partner/partner-02.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-03.png" alt="partner image">
+                        <img src="client/img/partner/partner-03.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-05.png" alt="partner image">
+                        <img src="client/img/partner/partner-05.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-01.png" alt="partner image">
+                        <img src="client/img/partner/partner-01.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-02.png" alt="partner image">
+                        <img src="client/img/partner/partner-02.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-03.png" alt="partner image">
+                        <img src="client/img/partner/partner-03.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-05.png" alt="partner image">
+                        <img src="client/img/partner/partner-05.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                 </div>
             </div>

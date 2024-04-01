@@ -5,7 +5,7 @@
 @section('contnet')
     <!-- page title area start  -->
     <section class="page-title-area page-title-spacing p-relative zindex-1"
-    data-background="assets/img/shop/shop-page-title.jpg">
+    data-background="client/img/shop/shop-page-title.jpg">
     <div class="ms-overlay ms-overlay9 p-absolute zindex--1"></div>
     <div class="container">
         <div class="row justify-content-center">
@@ -29,28 +29,28 @@
                             <button class="nav-link active" id="nav1-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav1" type="button" role="tab" aria-controls="nav1"
                                 aria-selected="false">
-                                <img src="assets/img/shop/product-01.png" alt="product image">
+                                <img src="client/img/shop/product-01.png" alt="product image">
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="nav2-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav2" type="button" role="tab" aria-controls="nav2"
                                 aria-selected="false">
-                                <img src="assets/img/shop/product-02.png" alt="product image">
+                                <img src="client/img/shop/product-02.png" alt="product image">
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="nav3-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav3" type="button" role="tab" aria-controls="nav3"
                                 aria-selected="false">
-                                <img src="assets/img/shop/product-03.png" alt="product image">
+                                <img src="client/img/shop/product-03.png" alt="product image">
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="nav4-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav4" type="button" role="tab" aria-controls="nav4"
                                 aria-selected="true">
-                                <img src="assets/img/shop/product-04.png" alt="product image">
+                                <img src="client/img/shop/product-04.png" alt="product image">
                             </button>
                         </li>
                     </ul>
@@ -58,22 +58,22 @@
                         <div class="tab-pane fade active show" id="nav1" role="tabpanel"
                             aria-labelledby="nav1-tab">
                             <div class="product__modal-img w-img">
-                                <img src="assets/img/shop/product-01.png" alt="product image">
+                                <img src="client/img/shop/product-01.png" alt="product image">
                             </div>
                         </div>
                         <div class="tab-pane fade" id="nav2" role="tabpanel" aria-labelledby="nav2-tab">
                             <div class="product__modal-img w-img">
-                                <img src="assets/img/shop/product-02.png" alt="product image">
+                                <img src="client/img/shop/product-02.png" alt="product image">
                             </div>
                         </div>
                         <div class="tab-pane fade" id="nav3" role="tabpanel" aria-labelledby="nav3-tab">
                             <div class="product__modal-img w-img">
-                                <img src="assets/img/shop/product-03.png" alt="product image">
+                                <img src="client/img/shop/product-03.png" alt="product image">
                             </div>
                         </div>
                         <div class="tab-pane fade" id="nav4" role="tabpanel" aria-labelledby="nav4-tab">
                             <div class="product__modal-img w-img">
-                                <img src="assets/img/shop/product-04.png" alt="product image">
+                                <img src="client/img/shop/product-04.png" alt="product image">
                             </div>
                         </div>
                     </div>
@@ -255,40 +255,40 @@
         <div class="swiper-container ms-partner-active">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-01.png" alt="partner image">
+                    <img src="client/img/partner/partner-01.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-02.png" alt="partner image">
+                    <img src="client/img/partner/partner-02.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-03.png" alt="partner image">
+                    <img src="client/img/partner/partner-03.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-05.png" alt="partner image">
+                    <img src="client/img/partner/partner-05.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-01.png" alt="partner image">
+                    <img src="client/img/partner/partner-01.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-02.png" alt="partner image">
+                    <img src="client/img/partner/partner-02.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-03.png" alt="partner image">
+                    <img src="client/img/partner/partner-03.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-05.png" alt="partner image">
+                    <img src="client/img/partner/partner-05.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
             </div>
         </div>
