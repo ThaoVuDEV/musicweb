@@ -5,7 +5,7 @@
 @section('content')
     <!-- page title area start  -->
     <section class="page-title-area page-title-spacing p-relative zindex-1"
-        data-background="assets/img/shop/shop-page-title.jpg">
+        data-background="client/img/shop/shop-page-title.jpg">
         <div class="ms-overlay ms-overlay9 p-absolute zindex--1"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -37,7 +37,7 @@
                                 <tbody>
                                     <tr>
                                         <td class="ms-product-name-flex"><a href="shop-details.html">
-                                                <img src="assets/img/shop/product-05.png" alt="product">
+                                                <img src="client/img/shop/product-05.png" alt="product">
                                                 <h6 class="ms-product-title">ADJ
                                                     Starburst 6-Colour LED Sphere Lighting Effect</h6>
                                             </a>
@@ -63,7 +63,7 @@
                                     </tr>
                                     <tr>
                                         <td class="ms-product-name-flex"><a href="shop-details.html">
-                                                <img src="assets/img/shop/product-01.png" alt="product">
+                                                <img src="client/img/shop/product-01.png" alt="product">
                                                 <h6 class="ms-product-title">Denon DJ LC6000 Prime
                                                     Perfor
                                                     mance
@@ -91,7 +91,7 @@
                                     </tr>
                                     <tr>
                                         <td class="ms-product-name-flex"><a href="shop-details.html">
-                                                <img src="assets/img/shop/product-03.png" alt="product">
+                                                <img src="client/img/shop/product-03.png" alt="product">
                                                 <h6 class="ms-product-title">Chauvet B-550 Bubble King
                                                     Bubble
                                                     Machine</h6>
@@ -118,7 +118,7 @@
                                     </tr>
                                     <tr>
                                         <td class="ms-product-name-flex"><a href="shop-details.html">
-                                                <img src="assets/img/shop/product-11.png" alt="product">
+                                                <img src="client/img/shop/product-11.png" alt="product">
                                                 <h6 class="ms-product-title">Behringer VMX100USB Profe
                                                     ssional
                                                     2-Channel DJ Mixer</h6>
@@ -204,40 +204,40 @@
             <div class="swiper-container ms-partner-active">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-01.png" alt="partner image">
+                        <img src="client/img/partner/partner-01.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-02.png" alt="partner image">
+                        <img src="client/img/partner/partner-02.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-03.png" alt="partner image">
+                        <img src="client/img/partner/partner-03.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-05.png" alt="partner image">
+                        <img src="client/img/partner/partner-05.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-01.png" alt="partner image">
+                        <img src="client/img/partner/partner-01.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-02.png" alt="partner image">
+                        <img src="client/img/partner/partner-02.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-03.png" alt="partner image">
+                        <img src="client/img/partner/partner-03.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-05.png" alt="partner image">
+                        <img src="client/img/partner/partner-05.png" alt="partner image">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/partner/partner-04.png" alt="partner image">
+                        <img src="client/img/partner/partner-04.png" alt="partner image">
                     </div>
                 </div>
             </div>

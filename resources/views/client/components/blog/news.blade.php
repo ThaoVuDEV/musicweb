@@ -4,7 +4,7 @@
 @endsection
 @section('content')
     <!-- page title area start  -->
-    <section class="page-title-area page-title-spacing p-relative zindex-1 " data-background="assets/img/bg/work-bg.jpg">
+    <section class="page-title-area page-title-spacing p-relative zindex-1 " data-background="client/img/bg/work-bg.jpg">
         <div class="ms-overlay ms-overlay9 p-absolute zindex--1"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -25,7 +25,7 @@
                         <article>
                             <div class="ms-news-box mb-25">
                                 <div class="ms-news-img m-img fix ms-br-15 mb-30">
-                                    <a href="news-details.html"><img src="assets/img/news/news-06.jpg"
+                                    <a href="news-details.html"><img src="client/img/news/news-06.jpg"
                                             alt="news images"></a>
                                     <span class="ms-news-cat"><a href="news-details.html">DJ Party
                                             Event</a></span>
@@ -59,7 +59,7 @@
                         <article>
                             <div class="ms-news-box mb-25">
                                 <div class="ms-news-img m-img fix ms-br-15 mb-30">
-                                    <a href="news-details.html"><img src="assets/img/news/news-04.jpg"
+                                    <a href="news-details.html"><img src="client/img/news/news-04.jpg"
                                             alt="news images"></a>
                                     <span class="ms-news-cat"><a href="news-details.html">DJ Party
                                             Event</a></span>
@@ -93,7 +93,7 @@
                             <div class="ms-news-box mb-25">
                                 <div class="ms-news-img m-img fix ms-br-15 mb-30">
                                     <a href="news-details.html">
-                                        <img src="assets/img/news/news-05.jpg" alt="news images">
+                                        <img src="client/img/news/news-05.jpg" alt="news images">
                                     </a>
                                     <span class="ms-news-cat"><a href="news-details.html">DJ Party
                                             Event</a></span>
@@ -130,7 +130,7 @@
                         <article>
                             <div class="ms-news-box mb-25">
                                 <div class="ms-news-img m-img fix ms-br-15 mb-30">
-                                    <a href="news-details.html"><img src="assets/img/banner/title-bg.jpg"
+                                    <a href="news-details.html"><img src="client/img/banner/title-bg.jpg"
                                             alt="news images"></a>
                                     <span class="ms-news-cat"><a href="news-details.html">DJ Party
                                             Event</a></span>
@@ -217,7 +217,7 @@
                                     <div class="d-flex">
                                         <div class="rc-thumb mr-20">
                                             <a href="news-details.html">
-                                                <img src="assets/img/news/news-rc-01.jpg" alt="news rc image">
+                                                <img src="client/img/news/news-rc-01.jpg" alt="news rc image">
                                             </a>
                                         </div>
                                         <div class="rc-text widget-post-body">
@@ -234,7 +234,7 @@
                                     <div class="d-flex">
                                         <div class="rc-thumb mr-20">
                                             <a href="news-details.html">
-                                                <img src="assets/img/news/news-rc-02.jpg" alt="news rc image">
+                                                <img src="client/img/news/news-rc-02.jpg" alt="news rc image">
                                             </a>
                                         </div>
                                         <div class="rc-text widget-post-body">
@@ -251,7 +251,7 @@
                                     <div class="d-flex">
                                         <div class="rc-thumb mr-20">
                                             <a href="news-details.html">
-                                                <img src="assets/img/news/news-rc-03.jpg" alt="news rc image">
+                                                <img src="client/img/news/news-rc-03.jpg" alt="news rc image">
                                             </a>
                                         </div>
                                         <div class="rc-text widget-post-body">
@@ -267,7 +267,7 @@
                                     <div class="d-flex">
                                         <div class="rc-thumb mr-20">
                                             <a href="news-details.html">
-                                                <img src="assets/img/news/news-rc-04.jpg" alt="news rc image">
+                                                <img src="client/img/news/news-rc-04.jpg" alt="news rc image">
                                             </a>
                                         </div>
                                         <div class="rc-text widget-post-body">
@@ -296,11 +296,11 @@
                             <div class="ms-news-widget-banner p-relative d-inline-block">
                                 <div class="ms-news-widget-img m-img ms-br-15 fix p-relative zindex-1">
                                     <div class="ms-overlay ms-overlay11"></div>
-                                    <img src="assets/img/news/news-07.jpg" alt="banner image">
+                                    <img src="client/img/news/news-07.jpg" alt="banner image">
                                 </div>
                                 <div class="ms-news-widget-banner-content p-absolute zindex-5">
                                     <div class="ms-news-widget-log">
-                                        <a href="index.html"><img src="assets/img/logo/white-logo.png"
+                                        <a href="index.html"><img src="client/img/logo/white-logo.png"
                                                 alt="logo"></a>
                                     </div>
                                     <p>Musician & Band Party
@@ -325,40 +325,40 @@
                 <div class="swiper-container ms-partner-active">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-01.png" alt="partner image">
+                            <img src="client/img/partner/partner-01.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-02.png" alt="partner image">
+                            <img src="client/img/partner/partner-02.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-03.png" alt="partner image">
+                            <img src="client/img/partner/partner-03.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-04.png" alt="partner image">
+                            <img src="client/img/partner/partner-04.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-05.png" alt="partner image">
+                            <img src="client/img/partner/partner-05.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-04.png" alt="partner image">
+                            <img src="client/img/partner/partner-04.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-01.png" alt="partner image">
+                            <img src="client/img/partner/partner-01.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-02.png" alt="partner image">
+                            <img src="client/img/partner/partner-02.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-03.png" alt="partner image">
+                            <img src="client/img/partner/partner-03.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-04.png" alt="partner image">
+                            <img src="client/img/partner/partner-04.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-05.png" alt="partner image">
+                            <img src="client/img/partner/partner-05.png" alt="partner image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/img/partner/partner-04.png" alt="partner image">
+                            <img src="client/img/partner/partner-04.png" alt="partner image">
                         </div>
                     </div>
                 </div>

@@ -41,7 +41,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-01.png"
+                                                    src="client/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -58,7 +58,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-02.png"
+                                                    src="client/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -76,7 +76,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-03.png"
+                                                    src="client/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -93,7 +93,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-04.png"
+                                                    src="client/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -110,7 +110,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-01.png"
+                                                    src="client/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -127,7 +127,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-02.png"
+                                                    src="client/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -145,7 +145,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-03.png"
+                                                    src="client/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -162,7 +162,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-04.png"
+                                                    src="client/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -187,7 +187,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-03.png"
+                                                    src="client/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -204,7 +204,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-04.png"
+                                                    src="client/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -221,7 +221,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-01.png"
+                                                    src="client/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -238,7 +238,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-02.png"
+                                                    src="client/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -257,7 +257,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-03.png"
+                                                    src="client/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -274,7 +274,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-04.png"
+                                                    src="client/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -291,7 +291,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-01.png"
+                                                    src="client/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -308,7 +308,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-02.png"
+                                                    src="client/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -334,7 +334,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-04.png"
+                                                    src="client/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -351,7 +351,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-01.png"
+                                                    src="client/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -368,7 +368,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-02.png"
+                                                    src="client/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -386,7 +386,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-03.png"
+                                                    src="client/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -403,7 +403,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-01.png"
+                                                    src="client/img/popular/popular-01.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -420,7 +420,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-02.png"
+                                                    src="client/img/popular/popular-02.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -438,7 +438,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-03.png"
+                                                    src="client/img/popular/popular-03.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i
@@ -455,7 +455,7 @@
                                         <div class="ms-popular__thumb">
                                             <div class="ms-popular-overlay"></div>
                                             <a href="genres-details.html"><img
-                                                    src="assets/img/popular/popular-04.png"
+                                                    src="client/img/popular/popular-04.png"
                                                     alt="popular band"></a>
                                             <a href="genres-details.html" class="ms-popular__link">
                                                 <span class="ms-popular-icon"><i

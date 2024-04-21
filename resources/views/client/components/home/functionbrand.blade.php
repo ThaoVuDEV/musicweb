@@ -16,7 +16,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-01.png"
+                                src="client/img/function-brand/function-brand-01.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -43,7 +43,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-02.png"
+                                src="client/img/function-brand/function-brand-02.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -70,7 +70,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-03.png"
+                                src="client/img/function-brand/function-brand-03.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -97,7 +97,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-04.png"
+                                src="client/img/function-brand/function-brand-04.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -124,7 +124,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-05.png"
+                                src="client/img/function-brand/function-brand-05.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -151,7 +151,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-06.png"
+                                src="client/img/function-brand/function-brand-06.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -179,7 +179,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-07.png"
+                                src="client/img/function-brand/function-brand-07.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -206,7 +206,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-08.png"
+                                src="client/img/function-brand/function-brand-08.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -233,7 +233,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-05.png"
+                                src="client/img/function-brand/function-brand-05.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -260,7 +260,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-01.png"
+                                src="client/img/function-brand/function-brand-01.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -287,7 +287,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-05.png"
+                                src="client/img/function-brand/function-brand-05.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">
@@ -314,7 +314,7 @@
                 <div class="ms-fun-brand-top mb-20">
                     <div class="ms-fun-brand-thumb">
                         <a href="genres-details.html"><img
-                                src="assets/img/function-brand/function-brand-06.png"
+                                src="client/img/function-brand/function-brand-06.png"
                                 alt="function brand"></a>
                     </div>
                     <div class="ms-fun-brand-content">

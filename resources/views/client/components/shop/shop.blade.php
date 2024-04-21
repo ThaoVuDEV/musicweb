@@ -5,7 +5,7 @@
 @section('content')
      <!-- page title area start  -->
      <section class="page-title-area page-title-spacing p-relative zindex-1"
-     data-background="assets/img/shop/shop-page-title.jpg">
+     data-background="client/img/shop/shop-page-title.jpg">
      <div class="ms-overlay ms-overlay9 p-absolute zindex--1"></div>
      <div class="container">
          <div class="row justify-content-center">
@@ -50,7 +50,7 @@
          <div class="ms-product-wrap ms-product-grid mb-65">
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-01.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-01.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -69,7 +69,7 @@
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
                      <span class="ms-discount">25% off</span>
-                     <a href="shop-details.html"><img src="assets/img/shop/product-02.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-02.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -87,7 +87,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-03.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-03.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -105,7 +105,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-04.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-04.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -123,7 +123,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-05.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-05.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -141,7 +141,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-06.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-06.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -159,7 +159,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-07.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-07.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -177,7 +177,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-02.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-02.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -195,7 +195,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-09.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-09.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -213,7 +213,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-10.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-10.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -231,7 +231,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-11.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-11.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -249,7 +249,7 @@
              </div>
              <div class="ms-product-item">
                  <div class="ms-product-img p-relative mb-20">
-                     <a href="shop-details.html"><img src="assets/img/shop/product-12.png"
+                     <a href="shop-details.html"><img src="client/img/shop/product-12.png"
                              alt="product img"></a>
                      <div class="ms-product-links">
                          <ul>
@@ -304,40 +304,40 @@
          <div class="swiper-container ms-partner-active">
              <div class="swiper-wrapper">
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-01.png" alt="partner image">
+                     <img src="client/img/partner/partner-01.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-02.png" alt="partner image">
+                     <img src="client/img/partner/partner-02.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-03.png" alt="partner image">
+                     <img src="client/img/partner/partner-03.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-04.png" alt="partner image">
+                     <img src="client/img/partner/partner-04.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-05.png" alt="partner image">
+                     <img src="client/img/partner/partner-05.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-04.png" alt="partner image">
+                     <img src="client/img/partner/partner-04.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-01.png" alt="partner image">
+                     <img src="client/img/partner/partner-01.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-02.png" alt="partner image">
+                     <img src="client/img/partner/partner-02.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-03.png" alt="partner image">
+                     <img src="client/img/partner/partner-03.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-04.png" alt="partner image">
+                     <img src="client/img/partner/partner-04.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-05.png" alt="partner image">
+                     <img src="client/img/partner/partner-05.png" alt="partner image">
                  </div>
                  <div class="swiper-slide">
-                     <img src="assets/img/partner/partner-04.png" alt="partner image">
+                     <img src="client/img/partner/partner-04.png" alt="partner image">
                  </div>
              </div>
          </div>

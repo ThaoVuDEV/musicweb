@@ -19,7 +19,7 @@
         <div class="row bdFadeUp">
             <div class="col-xl-8">
                 <div class="ms-event-bg p-relative mb-60"
-                    data-background="assets/img/event/event-testimonial-bg.png">
+                    data-background="client/img/event/event-testimonial-bg.png">
                     <div class="ms-event-overlay p-absolute"></div>
                     <div class="ms-event-wrap">
                         <div class="ms-event-inner-box">
@@ -165,7 +165,7 @@
             <div class="col-xl-4">
                 <div class="ms-event-play d-inline-block w-img p-relative mb-60">
                     <div class="ms-event-play-overlay p-absolute"></div>
-                    <img src="assets/img/event/event-bg-2.png" alt="event img">
+                    <img src="client/img/event/event-bg-2.png" alt="event img">
                     <a href="https://www.youtube.com/watch?v=Rf9flQISwok"
                         class="ms-play-border ms-event-play-btn popup-video">play</a>
                 </div>

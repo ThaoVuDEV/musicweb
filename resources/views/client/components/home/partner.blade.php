@@ -14,40 +14,40 @@
         <div class="swiper-container ms-partner-active bdFadeUp">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-01.png" alt="partner image">
+                    <img src="client/img/partner/partner-01.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-02.png" alt="partner image">
+                    <img src="client/img/partner/partner-02.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-03.png" alt="partner image">
+                    <img src="client/img/partner/partner-03.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-05.png" alt="partner image">
+                    <img src="client/img/partner/partner-05.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-01.png" alt="partner image">
+                    <img src="client/img/partner/partner-01.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-02.png" alt="partner image">
+                    <img src="client/img/partner/partner-02.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-03.png" alt="partner image">
+                    <img src="client/img/partner/partner-03.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-05.png" alt="partner image">
+                    <img src="client/img/partner/partner-05.png" alt="partner image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/img/partner/partner-04.png" alt="partner image">
+                    <img src="client/img/partner/partner-04.png" alt="partner image">
                 </div>
             </div>
         </div>

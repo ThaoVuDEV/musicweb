@@ -14,8 +14,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     //return view('client.pages.home');
-//     return view('client.components.shop.shop');
-// });
-Route::get('', HomeController::class.'@index');
+Route::get('/', function () {
+    //return view('client.pages.home');
+    // return view('client.components.shop.shop');
+    return view('admin.components.analytics');
+});

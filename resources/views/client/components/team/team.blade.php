@@ -5,7 +5,7 @@
 @section('content')
      <!-- page title area start  -->
      <section class="page-title-area page-title-spacing p-relative zindex-1 "
-     data-background="assets/img/bg/work-bg.jpg">
+     data-background="client/img/bg/work-bg.jpg">
      <div class="ms-overlay ms-overlay8 p-absolute zindex--1"></div>
      <div class="container">
          <div class="row justify-content-center">
@@ -37,7 +37,7 @@
                  <div class="ms-team-item-wrap">
                      <div class="ms-team-item p-relative">
                          <div class="ms-team-img">
-                             <a href="team-details.html"><img src="assets/img/team/team-01.jpg"
+                             <a href="team-details.html"><img src="client/img/team/team-01.jpg"
                                      alt="team image"></a>
                              <div class="ms-team-social">
                                  <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -54,7 +54,7 @@
                  <div class="ms-team-item-wrap">
                      <div class="ms-team-item p-relative">
                          <div class="ms-team-img">
-                             <a href="team-details.html"><img src="assets/img/team/team-02.jpg"
+                             <a href="team-details.html"><img src="client/img/team/team-02.jpg"
                                      alt="team image"></a>
                              <div class="ms-team-social">
                                  <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -71,7 +71,7 @@
                  <div class="ms-team-item-wrap">
                      <div class="ms-team-item p-relative">
                          <div class="ms-team-img">
-                             <a href="team-details.html"><img src="assets/img/team/team-03.jpg"
+                             <a href="team-details.html"><img src="client/img/team/team-03.jpg"
                                      alt="team image"></a>
                              <div class="ms-team-social">
                                  <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -89,7 +89,7 @@
                  <div class="ms-team-item-wrap">
                      <div class="ms-team-item p-relative">
                          <div class="ms-team-img">
-                             <a href="team-details.html"><img src="assets/img/team/team-04.jpg"
+                             <a href="team-details.html"><img src="client/img/team/team-04.jpg"
                                      alt="team image"></a>
                              <div class="ms-team-social">
                                  <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -107,7 +107,7 @@
                  <div class="ms-team-item-wrap">
                      <div class="ms-team-item p-relative">
                          <div class="ms-team-img">
-                             <a href="team-details.html"><img src="assets/img/team/team-05.jpg"
+                             <a href="team-details.html"><img src="client/img/team/team-05.jpg"
                                      alt="team image"></a>
                              <div class="ms-team-social">
                                  <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -125,7 +125,7 @@
                  <div class="ms-team-item-wrap">
                      <div class="ms-team-item p-relative">
                          <div class="ms-team-img">
-                             <a href="team-details.html"><img src="assets/img/team/team-06.jpg"
+                             <a href="team-details.html"><img src="client/img/team/team-06.jpg"
                                      alt="team image"></a>
                              <div class="ms-team-social">
                                  <a href="https://www.linkedin.com/" title="Instagram" target="_blank">IN</a>
@@ -625,40 +625,40 @@
              <div class="swiper-container ms-partner-active">
                  <div class="swiper-wrapper">
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-01.png" alt="partner image">
+                         <img src="client/img/partner/partner-01.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-02.png" alt="partner image">
+                         <img src="client/img/partner/partner-02.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-03.png" alt="partner image">
+                         <img src="client/img/partner/partner-03.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-04.png" alt="partner image">
+                         <img src="client/img/partner/partner-04.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-05.png" alt="partner image">
+                         <img src="client/img/partner/partner-05.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-04.png" alt="partner image">
+                         <img src="client/img/partner/partner-04.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-01.png" alt="partner image">
+                         <img src="client/img/partner/partner-01.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-02.png" alt="partner image">
+                         <img src="client/img/partner/partner-02.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-03.png" alt="partner image">
+                         <img src="client/img/partner/partner-03.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-04.png" alt="partner image">
+                         <img src="client/img/partner/partner-04.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-05.png" alt="partner image">
+                         <img src="client/img/partner/partner-05.png" alt="partner image">
                      </div>
                      <div class="swiper-slide">
-                         <img src="assets/img/partner/partner-04.png" alt="partner image">
+                         <img src="client/img/partner/partner-04.png" alt="partner image">
                      </div>
                  </div>
              </div>
