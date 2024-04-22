@@ -10,7 +10,7 @@
                 <img src="admin/images/logo-dark.png" alt="" height="17">
             </span>
         </a>
-        <!-- Light Logo-->
+        <!-- Light Logo-->  
         <a href="index.html" class="logo logo-light">
             <span class="logo-sm">
                 <img src="admin/images/logo-sm.png" alt="" height="22">
@@ -33,18 +33,10 @@
             <ul class="navbar-nav" id="navbar-nav">
                 <li class="menu-title"><span data-key="t-menu">Menu</span></li>
                 <li class="nav-item">
-                    <a class="nav-link menu-link" href="#sidebarDashboards" data-bs-toggle="collapse"
-                        role="button" aria-expanded="false" aria-controls="sidebarDashboards">
-                        <i class="ri-dashboard-2-line"></i> <span data-key="t-dashboards">Dashboards</span>
+                    <a class="nav-link menu-link" href="#sidebarDashboards"
+                        role="button" aria-expanded="false">
+                        <i class="ri-dashboard-2-line"></i> <span data-key="t-dashboards">Dashboard</span>
                     </a>
-                    <div class="collapse menu-dropdown" id="sidebarDashboards">
-                        <ul class="nav nav-sm flex-column">
-                            <li class="nav-item">
-                                <a href="dashboard-analytics.html" class="nav-link" data-key="t-analytics">
-                                    Analytics </a>
-                            </li>
-                        </ul>
-                    </div>
                 </li> <!-- end Dashboard Menu -->
                 <li class="nav-item">
                     <a class="nav-link menu-link" href="#sidebarApps" data-bs-toggle="collapse"
@@ -464,35 +456,6 @@
                         </ul>
                     </div>
                 </li>
-
-                <li class="nav-item">
-                    <a class="nav-link menu-link" href="#sidebarLayouts" data-bs-toggle="collapse"
-                        role="button" aria-expanded="false" aria-controls="sidebarLayouts">
-                        <i class="ri-layout-3-line"></i> <span data-key="t-layouts">Layouts</span> <span
-                            class="badge badge-pill bg-danger" data-key="t-hot">Hot</span>
-                    </a>
-                    <div class="collapse menu-dropdown" id="sidebarLayouts">
-                        <ul class="nav nav-sm flex-column">
-                            <li class="nav-item">
-                                <a href="layouts-horizontal.html" target="_blank" class="nav-link"
-                                    data-key="t-horizontal">Horizontal</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="layouts-detached.html" target="_blank" class="nav-link"
-                                    data-key="t-detached">Detached</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="layouts-two-column.html" target="_blank" class="nav-link"
-                                    data-key="t-two-column">Two Column</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="layouts-vertical-hovered.html" target="_blank" class="nav-link"
-                                    data-key="t-hovered">Hovered</a>
-                            </li>
-                        </ul>
-                    </div>
-                </li> <!-- end Dashboard Menu -->
-
                 <li class="menu-title"><i class="ri-more-fill"></i> <span data-key="t-pages">Pages</span>
                 </li>
 

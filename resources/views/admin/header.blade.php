@@ -6,19 +6,19 @@
                 <div class="navbar-brand-box horizontal-logo">
                     <a href="index.html" class="logo logo-dark">
                         <span class="logo-sm">
-                            <img src="assets/images/logo-sm.png" alt="" height="22">
+                            <img src="admin/images/logo-sm.png" alt="" height="22">
                         </span>
                         <span class="logo-lg">
-                            <img src="assets/images/logo-dark.png" alt="" height="17">
+                            <img src="admin/images/logo-dark.png" alt="" height="17">
                         </span>
                     </a>
 
                     <a href="index.html" class="logo logo-light">
                         <span class="logo-sm">
-                            <img src="assets/images/logo-sm.png" alt="" height="22">
+                            <img src="admin/images/logo-sm.png" alt="" height="22">
                         </span>
                         <span class="logo-lg">
-                            <img src="assets/images/logo-light.png" alt="" height="17">
+                            <img src="admin/images/logo-light.png" alt="" height="17">
                         </span>
                     </a>
                 </div>
@@ -87,7 +87,7 @@
                                 <!-- item -->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item py-2">
                                     <div class="d-flex">
-                                        <img src="assets/images/users/avatar-2.jpg"
+                                        <img src="admin/images/users/avatar-2.jpg"
                                             class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="m-0">Angela Bernier</h6>
@@ -98,7 +98,7 @@
                                 <!-- item -->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item py-2">
                                     <div class="d-flex">
-                                        <img src="assets/images/users/avatar-3.jpg"
+                                        <img src="admin/images/users/avatar-3.jpg"
                                             class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="m-0">David Grasso</h6>
@@ -109,7 +109,7 @@
                                 <!-- item -->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item py-2">
                                     <div class="d-flex">
-                                        <img src="assets/images/users/avatar-5.jpg"
+                                        <img src="admin/images/users/avatar-5.jpg"
                                             class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="m-0">Mike Bunch</h6>
@@ -154,7 +154,7 @@
                 <div class="dropdown ms-1 topbar-head-dropdown header-item">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle"
                         data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <img id="header-lang-img" src="assets/images/flags/us.svg" alt="Header Language"
+                        <img id="header-lang-img" src="admin/images/flags/us.svg" alt="Header Language"
                             height="20" class="rounded">
                     </button>
                     <div class="dropdown-menu dropdown-menu-end">
@@ -162,7 +162,7 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language py-2"
                             data-lang="en" title="English">
-                            <img src="assets/images/flags/us.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/us.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">English</span>
                         </a>
@@ -170,7 +170,7 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="sp" title="Spanish">
-                            <img src="assets/images/flags/spain.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/spain.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">Española</span>
                         </a>
@@ -178,14 +178,14 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="gr" title="German">
-                            <img src="assets/images/flags/germany.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/germany.svg" alt="user-image" class="me-2 rounded"
                                 height="18"> <span class="align-middle">Deutsche</span>
                         </a>
 
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="it" title="Italian">
-                            <img src="assets/images/flags/italy.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/italy.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">Italiana</span>
                         </a>
@@ -193,7 +193,7 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="ru" title="Russian">
-                            <img src="assets/images/flags/russia.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/russia.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">русский</span>
                         </a>
@@ -201,7 +201,7 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="ch" title="Chinese">
-                            <img src="assets/images/flags/china.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/china.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">中国人</span>
                         </a>
@@ -209,7 +209,7 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="fr" title="French">
-                            <img src="assets/images/flags/french.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/french.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">français</span>
                         </a>
@@ -217,7 +217,7 @@
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item language"
                             data-lang="ar" title="Arabic">
-                            <img src="assets/images/flags/ae.svg" alt="user-image" class="me-2 rounded"
+                            <img src="admin/images/flags/ae.svg" alt="user-image" class="me-2 rounded"
                                 height="18">
                             <span class="align-middle">Arabic</span>
                         </a>
@@ -246,19 +246,19 @@
                             <div class="row g-0">
                                 <div class="col">
                                     <a class="dropdown-icon-item" href="#!">
-                                        <img src="assets/images/brands/github.png" alt="Github">
+                                        <img src="admin/images/brands/github.png" alt="Github">
                                         <span>GitHub</span>
                                     </a>
                                 </div>
                                 <div class="col">
                                     <a class="dropdown-icon-item" href="#!">
-                                        <img src="assets/images/brands/bitbucket.png" alt="bitbucket">
+                                        <img src="admin/images/brands/bitbucket.png" alt="bitbucket">
                                         <span>Bitbucket</span>
                                     </a>
                                 </div>
                                 <div class="col">
                                     <a class="dropdown-icon-item" href="#!">
-                                        <img src="assets/images/brands/dribbble.png" alt="dribbble">
+                                        <img src="admin/images/brands/dribbble.png" alt="dribbble">
                                         <span>Dribbble</span>
                                     </a>
                                 </div>
@@ -267,19 +267,19 @@
                             <div class="row g-0">
                                 <div class="col">
                                     <a class="dropdown-icon-item" href="#!">
-                                        <img src="assets/images/brands/dropbox.png" alt="dropbox">
+                                        <img src="admin/images/brands/dropbox.png" alt="dropbox">
                                         <span>Dropbox</span>
                                     </a>
                                 </div>
                                 <div class="col">
                                     <a class="dropdown-icon-item" href="#!">
-                                        <img src="assets/images/brands/mail_chimp.png" alt="mail_chimp">
+                                        <img src="admin/images/brands/mail_chimp.png" alt="mail_chimp">
                                         <span>Mail Chimp</span>
                                     </a>
                                 </div>
                                 <div class="col">
                                     <a class="dropdown-icon-item" href="#!">
-                                        <img src="assets/images/brands/slack.png" alt="slack">
+                                        <img src="admin/images/brands/slack.png" alt="slack">
                                         <span>Slack</span>
                                     </a>
                                 </div>
@@ -325,7 +325,7 @@
                                 </div>
                                 <div class="d-block dropdown-item dropdown-item-cart text-wrap px-3 py-2">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/images/products/img-1.png"
+                                        <img src="admin/images/products/img-1.png"
                                             class="me-3 rounded-circle avatar-sm p-2 bg-light" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="mt-0 mb-1 fs-14">
@@ -351,7 +351,7 @@
 
                                 <div class="d-block dropdown-item dropdown-item-cart text-wrap px-3 py-2">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/images/products/img-2.png"
+                                        <img src="admin/images/products/img-2.png"
                                             class="me-3 rounded-circle avatar-sm p-2 bg-light" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="mt-0 mb-1 fs-14">
@@ -376,7 +376,7 @@
 
                                 <div class="d-block dropdown-item dropdown-item-cart text-wrap px-3 py-2">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/images/products/img-3.png"
+                                        <img src="admin/images/products/img-3.png"
                                             class="me-3 rounded-circle avatar-sm p-2 bg-light" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="mt-0 mb-1 fs-14">
@@ -402,7 +402,7 @@
 
                                 <div class="d-block dropdown-item dropdown-item-cart text-wrap px-3 py-2">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/images/products/img-6.png"
+                                        <img src="admin/images/products/img-6.png"
                                             class="me-3 rounded-circle avatar-sm p-2 bg-light" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="mt-0 mb-1 fs-14">
@@ -428,7 +428,7 @@
 
                                 <div class="d-block dropdown-item dropdown-item-cart text-wrap px-3 py-2">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/images/products/img-5.png"
+                                        <img src="admin/images/products/img-5.png"
                                             class="me-3 rounded-circle avatar-sm p-2 bg-light" alt="user-pic">
                                         <div class="flex-grow-1">
                                             <h6 class="mt-0 mb-1 fs-14">
@@ -573,7 +573,7 @@
                                     <div
                                         class="text-reset notification-item d-block dropdown-item position-relative">
                                         <div class="d-flex">
-                                            <img src="assets/images/users/avatar-2.jpg"
+                                            <img src="admin/images/users/avatar-2.jpg"
                                                 class="me-3 rounded-circle avatar-xs flex-shrink-0"
                                                 alt="user-pic">
                                             <div class="flex-grow-1">
@@ -636,7 +636,7 @@
                                     <div
                                         class="text-reset notification-item d-block dropdown-item position-relative">
                                         <div class="d-flex">
-                                            <img src="assets/images/users/avatar-8.jpg"
+                                            <img src="admin/images/users/avatar-8.jpg"
                                                 class="me-3 rounded-circle avatar-xs flex-shrink-0"
                                                 alt="user-pic">
                                             <div class="flex-grow-1">
@@ -678,7 +678,7 @@
                                 <div data-simplebar style="max-height: 300px;" class="pe-2">
                                     <div class="text-reset notification-item d-block dropdown-item">
                                         <div class="d-flex">
-                                            <img src="assets/images/users/avatar-3.jpg"
+                                            <img src="admin/images/users/avatar-3.jpg"
                                                 class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                             <div class="flex-grow-1">
                                                 <a href="#!" class="stretched-link">
@@ -706,7 +706,7 @@
 
                                     <div class="text-reset notification-item d-block dropdown-item">
                                         <div class="d-flex">
-                                            <img src="assets/images/users/avatar-2.jpg"
+                                            <img src="admin/images/users/avatar-2.jpg"
                                                 class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                             <div class="flex-grow-1">
                                                 <a href="#!" class="stretched-link">
@@ -735,7 +735,7 @@
 
                                     <div class="text-reset notification-item d-block dropdown-item">
                                         <div class="d-flex">
-                                            <img src="assets/images/users/avatar-6.jpg"
+                                            <img src="admin/images/users/avatar-6.jpg"
                                                 class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                             <div class="flex-grow-1">
                                                 <a href="#!" class="stretched-link">
@@ -764,7 +764,7 @@
 
                                     <div class="text-reset notification-item d-block dropdown-item">
                                         <div class="d-flex">
-                                            <img src="assets/images/users/avatar-8.jpg"
+                                            <img src="admin/images/users/avatar-8.jpg"
                                                 class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                             <div class="flex-grow-1">
                                                 <a href="#!" class="stretched-link">
@@ -818,7 +818,7 @@
                         data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <span class="d-flex align-items-center">
                             <img class="rounded-circle header-profile-user"
-                                src="assets/images/users/avatar-1.jpg" alt="Header Avatar">
+                                src="admin/images/users/avatar-1.jpg" alt="Header Avatar">
                             <span class="text-start ms-xl-2">
                                 <span class="d-none d-xl-inline-block ms-1 fw-medium user-name-text">Anna
                                     Adame</span>

@@ -31,18 +31,6 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body p-0">
-                                        <div class="alert alert-warning border-0 rounded-0 m-0 d-flex align-items-center"
-                                            role="alert">
-                                            <i data-feather="alert-triangle" class="text-warning me-2 icon-sm"></i>
-                                            <div class="flex-grow-1 text-truncate">
-                                                Your free trial expired in <b>17</b> days.
-                                            </div>
-                                            <div class="flex-shrink-0">
-                                                <a href="pages-pricing.html"
-                                                    class="text-reset text-decoration-underline"><b>Upgrade</b></a>
-                                            </div>
-                                        </div>
-
                                         <div class="row align-items-end">
                                             <div class="col-sm-8">
                                                 <div class="p-3">
