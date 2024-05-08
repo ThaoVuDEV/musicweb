@@ -8,8 +8,13 @@ use Illuminate\Database\Eloquent\Model;
 class Artist extends Model
 {
     use HasFactory;
-    protected $fillable =[
+    protected $fillable = [
         'name',
-        
+
     ];
+    public function getAllArtists()
+    {
+
+        return self::all();
+    }
 }
